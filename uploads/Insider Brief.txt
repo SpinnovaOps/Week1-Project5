@@ -1,0 +1,45 @@
+Insider Brief
+
+Google’s head of Quantum AI, Hartmut Neven, predicts that commercial quantum computing applications will be realized within five years, with innovations in fields like materials science, medicine, and energy.
+This optimistic timeline contrasts with Nvidia CEO Jensen Huang’s forecast of at least 20 years for practical quantum computing, adding to the broader debate about the technology’s commercialization.
+Google, which has been pursuing quantum computing since 2012, has made significant progress, including breakthroughs with its Willow chip and a new approach to quantum simulation published in Nature.
+The head of Google Quantum AI sees commercial quantum computing applications within five years, as more quantum leaders place their bets on the quantum timeline board, according to Reuters.
+
+Hartmut Neven, Google’s head of quantum computing, told reporters from the news serbice that the tech giant expects to see real-world uses for quantum computers within the next five years, particularly in fields like materials science, medicine and energy. This would include innovations such as better batteries for electric cars, new drug discoveries and alternative energy sources.
+
+“We’re optimistic that within five years we’ll see real-world applications that are possible only on quantum computers,” founder and lead of Google Quantum AI Hartmut Neven said in a statement, as reported by Reuters.
+
+Responsive Image
+This seems to be more in line with Microsoft co-founder and former CEO Bill Gates’ predictions on practical quantum computing. Although recognizing the potential for — seen and unforeseen — hurdles, Gates believes practical quantum computing could arrive in the next three to five years.
+
+“And I regularly review that work [at Microsoft]. And I’m quite impressed with it, but Jensen is correct, it could take longer. This is both in terms of how you build a quantum computer and what software you write that can solve problems that other computers couldn’t write. There’s some hard work to be done, and Microsoft has been in this field a long time, as well as Google and many, many, many players,” Gates said on CNBC.
+
+The Bets Are On
+Google’s more aggressive timeline comes amid a rush of predictions and opinions about the future of quantum computing that seemed to start when Nvidia CEO Jensen Huang suggested in January that quantum computing is at least 20 years away from widespread use. While some experts believe practical applications could be realized within the next few years, others foresee at least two decades of work before quantum computers are commercially viable. Neven’s statement challenges those more pessimistic decades-long bets.
+
+Quantum computing has been a topic of research for decades, with scientists envisioning machines far more powerful than today’s computers. Unlike traditional computers, which process information one bit at a time, quantum computers use “qubits,” which rely on unique quantum mechanical techniques such as superposition and entanglement. These fundamental properties all quantum computers to theoretically perform certain calculations much faster than classical systems.
+
+Increasing Interest
+The potential for quantum computing to perform calculations with amazing speed and efficiency — and the possibility of revolutionizing industries — has attracted significant interest from governments and businesses, particularly due to its promise to disrupt fields like cybersecurity, finance and healthcare. However, predicting when it will become commercially useful remains highly uncertain. .
+
+Google has been pursuing quantum computing since 2012, according to Reuters, and has made significant strides. The company recently announced a significant advance in quantum chips with Willow that allowed it to solve a problem in minutes that would take a traditional computer longer than the age of the universe to complete. Google’s latest progress, published in the journal Nature, outlines a new approach to quantum simulation, marking another step toward Neven’s ambitious five-year goal for real-world applications.
+
+Google Quantum AIHartmut Nevenpredictionstimeline
+
+Matt Swayne
+LinkedIn
+With a several-decades long background in journalism and communications, Matt Swayne has worked as a science communicator for an R1 university for more than 12 years, specializing in translating high tech and deep tech for the general audience. He has served as a writer, editor and analyst at The Quantum Insider since its inception. In addition to his service as a science communicator, Matt also develops courses to improve the media and communications skills of scientists and has taught courses. matt@thequantuminsider.com
+Share this article:
+
+Relevant
+More
+World’s First Market-Ready Diamond-based Quantum Accelerator Coming to Pawsey Supercomputing Centre
+Matt Swayne  March 24, 2021
+IonQ and South Korea’s Q Center Announce Three-Year Quantum Alliance
+Matt Swayne  January 21, 2021
+Thales and Quantinuum Launch Starter Kit to Prepare Enterprises for Post-Quantum Cryptography Changes Ahead
+Matt Swayne  January 23, 2024
+Researchers Say Quantum Machine Learning, Quantum Optimization Could Enhance The Design And Efficiency of Clinical Trials
+Matt Swayne  October 5, 2024
+QuEra Announces Leadership Transition as CEO Alex Keesling to Focus on High-Volume Production and Technology Enhancements
+Matt Swayne  July 15, 2024

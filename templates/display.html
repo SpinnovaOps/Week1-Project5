@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="card p-4 shadow">
+    <h2>File Uploaded: {{ filename }}</h2>
+    <hr>
+    <pre class="p-3 bg-light">{{ content }}</pre>
+    <div class="d-flex">
+        <a href="{{ url_for('index') }}" class="btn btn-secondary me-2">Upload Another File</a>
+        <a href="{{ url_for('summarize', filename=filename) }}" class="btn btn-warning">Summarize</a>
+    </div>
+</div>
+{% endblock %}

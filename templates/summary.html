@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="card p-4 shadow">
+    <h2>Summary of: {{ filename }}</h2>
+    <hr>
+    <p class="p-3 bg-light">{{ summary }}</p>
+    <a href="{{ url_for('index') }}" class="btn btn-primary">Upload Another File</a>
+</div>
+{% endblock %}
