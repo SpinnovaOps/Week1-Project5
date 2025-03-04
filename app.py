@@ -12,7 +12,7 @@ app.secret_key = "supersecretkey"
 os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
 
 # Configure Google Generative AI
-GOOGLE_API_KEY = "AIzaSyCjeWAsyXA24ercu7XRISggxH0_Fzf68Kw"
+GOOGLE_API_KEY = "API_Key"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 @app.route('/')
